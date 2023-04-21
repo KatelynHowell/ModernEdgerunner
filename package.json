@@ -1,0 +1,21 @@
+{
+  "name": "modernedgerunner",
+  "displayName": "ModernEdgerunner",
+  "description": "A not-too-dark pastel-ish theme based on lucy and david. Utilizes more pastel colors on the less important bits and more vivid colors where it counts.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ModernEdgerunner",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ModernEdgerunner-color-theme.json"
+      }
+    ]
+  }
+}
