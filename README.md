@@ -1,7 +1,8 @@
 # MordernEdgerunner
-My Custom VSCode theme. Color pallet based on Lucy and David. Uses pastels throughout, with slightly more vivid pastels in the editor to keep you focused.
-
 AUTHOR: KatelynHowell
+
+My Custom VSCode theme. Color pallet based on Lucy and David. Uses pastels throughout, with slightly more vivid pastels in the editor to keep you focused.
+This is my first time making something like this so I know there are going to be certain feature/colors missing so consider this to be in beta. 
 
 Here are some useful editor keyboard shortcuts:
 
